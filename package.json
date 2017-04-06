@@ -1,7 +1,7 @@
 {
   "name": "stylelint-config-gluons",
-  "version": "1.0.0",
-  "description": "Gluons' personal ESLint shareable config.",
+  "version": "1.0.1",
+  "description": "Gluons' personal stylelint shareable config.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
