@@ -6,7 +6,6 @@ module.exports = {
 		'font-weight-notation': 'named-where-possible',
 		'function-url-quotes': 'always',
 		'indentation': 'tab',
-		'keyframe-declaration-no-important': false,
 		'number-leading-zero': 'never',
 		'selector-attribute-quotes': 'always',
 		'string-quotes': 'single'
